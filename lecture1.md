@@ -18,13 +18,9 @@
 
 - Used to study the relationship between a dependent variable and one or more independent variables.
 - General form:
-  $$
-  y = f(x_1, x_2, \ldots, x_K) + \epsilon
-  $$
+  $$y = f(x_1, x_2, \ldots, x_K) + \epsilon$$
   or
-  $$
-  y = \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_K x_K + \epsilon
-  $$
+  $$y = \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_K x_K + \epsilon$$
 
 ### Example – Demand Function
 
